@@ -27,8 +27,6 @@ Homepage: [Google Cloud Free Tier](https://cloud.google.com/free/docs/gcp-free-t
 
 ### Free for Limited-time
 
-- US$300 credit for 30 days
-
 ### Always Free
 
 ## 4. Oracle Cloud
@@ -37,7 +35,15 @@ Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
 
 ### Free for Limited-time
 
+- US$300 credit for 30 days
+
 ### Always Free
+
+- Two Compute VMs;
+- Block, Object, and Archive Storage;
+- Load Balancer and data egress;
+- Monitoring and Notifications;
+- Two Oracle Autonomous Databases incl. Oracle Application Express (APEX), Oracle SQL Developer etc.
 
 ## 5. IBM Cloud
 
