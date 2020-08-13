@@ -21,7 +21,13 @@ Homepage: [AWS Free Tier](https://aws.amazon.com/free/)
 
 ## 2. Azure
 
-### Free for Limited-time
+Homepage: [Azure Free Tier](https://azure.microsoft.com/en-us/free/)
+
+### Free for 30 Days
+
+- $200 credit
+
+### Free for 12 Months
 
 ### Always Free
 
