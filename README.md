@@ -1,7 +1,11 @@
 # Cloud Service Providers Free Tier Overview
 Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 
-
+1. AWS
+2. Azure
+3. Google Cloud
+4. Oracle Cloud
+5. IBM
 
 ## 1. AWS
 
@@ -23,6 +27,8 @@ Homepage: [Google Cloud Free Tier](https://cloud.google.com/free/docs/gcp-free-t
 
 ### Free for Limited-time
 
+- US$300 credit for 30 days
+
 ### Always Free
 
 ## 4. Oracle Cloud
@@ -38,6 +44,6 @@ Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
 Homepage: [IBM Cloud Free Tier](https://www.ibm.com/uk-en/cloud/free)
 
 ### Free for Limited-time
-- $200 credit for 30 days
+- US$200 credit for 30 days
 
 ### Always Free
