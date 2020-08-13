@@ -36,6 +36,8 @@ Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
 ### Free for Limited-time
 
 - US$300 credit for 30 days
+- Up to eight instances across all available services
+- Up to 5 TB of storage
 
 ### Always Free
 
