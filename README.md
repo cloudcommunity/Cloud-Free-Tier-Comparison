@@ -15,7 +15,7 @@ Homepage: [AWS Free Tier](https://aws.amazon.com/free/)
 
 ### Always Free
 
-- Amazon DynamoDB: 25 GB of storage
+- Amazon DynamoDB (NoSQL): 25 GB of storage
 
 ## 2. Azure
 
