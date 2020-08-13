@@ -15,6 +15,8 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 
 ## Google Cloud
 
+Homepage: [Google Cloud Free Tier](https://cloud.google.com/free/docs/gcp-free-tier)
+
 ### Free for Limited-time
 
 ### Always Free
