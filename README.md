@@ -13,6 +13,7 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 10. [render](#10-render)
 11. [Netlify](#11-netlify)
 12. [Heroku](#12-heroku)
+13. [jfrog](#13-jfrog)
 
 
 ## 1. AWS
@@ -155,3 +156,17 @@ Homepage: [Heroku](https://www.heroku.com/)
 - free _"dyno"_ (VPS) with 512MB RAM and 550 hours runtime
 - [PostgreSQL](https://www.postgresql.org/) with 10k rows and 20 connections
 - [Redis](https://redis.io/) with 25MB RAM and 20 connections
+
+## 13. jfrog
+
+Homepage: [Jfrog Free Tier](https://jfrog.com/platform/free-trial/)
+
+### Free for Limited-time
+
+- Self-Hosted 30 day trial
+
+### Always Free
+
+2GB Storage
+10GB Transfer/month
+2,000 CI/CD Minutes/month
