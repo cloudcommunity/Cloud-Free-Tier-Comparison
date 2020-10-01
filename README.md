@@ -1,17 +1,18 @@
 # Cloud Service Providers Free Tier Overview
-Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
+Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, alibaba-cloud etc.
 
 1. [AWS](#1-aws)
 2. [Azure](#2-azure)
 3. [Google Cloud](#3-google-cloud)
-4. [Oracle Cloud](#4-oracle-cloud)
-5. [IBM Cloud](#5-ibm-cloud)
-6. [Scaleway](#6-scaleway)
-7. [DigitalOcean](#7-digitalocean)
-8. [Hetzner Cloud](#8-hetzner-cloud)
-9. [render](#9-render)
-10. [Netlify](#10-netlify)
-11. [Heroku](#11-heroku)
+4. [Alibaba Cloud](#4-alibaba-cloud)
+5. [Oracle Cloud](#5-oracle-cloud)
+6. [IBM Cloud](#6-ibm-cloud)
+7. [Scaleway](#7-scaleway)
+8. [DigitalOcean](#8-digitalocean)
+9. [Hetzner Cloud](#9-hetzner-cloud)
+10. [render](#10-render)
+11. [Netlify](#11-netlify)
+12. [Heroku](#12-heroku)
 
 
 ## 1. AWS
@@ -46,7 +47,15 @@ Homepage: [Google Cloud Free Tier](https://cloud.google.com/free/docs/gcp-free-t
 
 ### Always Free
 
-## 4. Oracle Cloud
+## 4. Alibaba Cloud
+
+Homepage: [Alibaba Cloud Free Trial](https://www.alibabacloud.com/campaign/free-trial)
+
+### Try Over 40 Products for Free Worth $450-$1300 USD. 
+## Now up to 12 Months Usage for Elastic Compute Services.
+
+
+## 5. Oracle Cloud
 
 Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
 
@@ -64,7 +73,7 @@ Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
 - Monitoring and Notifications;
 - Two Oracle Autonomous Databases incl. Oracle Application Express (APEX), Oracle SQL Developer etc.
 
-## 5. IBM Cloud
+## 6. IBM Cloud
 
 Homepage: [IBM Cloud Free Tier](https://www.ibm.com/uk-en/cloud/free)
 
@@ -73,7 +82,7 @@ Homepage: [IBM Cloud Free Tier](https://www.ibm.com/uk-en/cloud/free)
 
 ### Always Free
 
-## 6. Scaleway
+## 7. Scaleway
 
 Homepage: [Scaleway](https://www.scaleway.com/)
 
@@ -86,7 +95,7 @@ Homepage: [Scaleway](https://www.scaleway.com/)
 - 75GB block storage (S3-compatible API)
 - 50k message in the IoT Hub ([MQTT](https://en.wikipedia.org/wiki/MQTT), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [Sigfox](https://en.wikipedia.org/wiki/Sigfox), [LoRa](https://en.wikipedia.org/wiki/LoRa))
 
-## 7. DigitalOcean
+## 8. DigitalOcean
 
 Homepage: [DigitalOcean](https://www.digitalocean.com/)
 
@@ -98,7 +107,7 @@ Homepage: [DigitalOcean](https://www.digitalocean.com/)
 
 - nothing
 
-## 8. Hetzner Cloud
+## 9. Hetzner Cloud
 
 Homepage: [Hetzner Cloud](https://hetzner.cloud)
 
@@ -110,7 +119,7 @@ Homepage: [Hetzner Cloud](https://hetzner.cloud)
 
 - nothing
 
-## 9. render
+## 10. render
 
 Homepage: [render](https://render.com/)
 
@@ -122,7 +131,7 @@ Homepage: [render](https://render.com/)
 
 - static site hosting
 
-## 10. Netlify
+## 11. Netlify
 
 Homepage: [Netlify](https://www.netlify.com/)
 
@@ -134,7 +143,7 @@ Homepage: [Netlify](https://www.netlify.com/)
 
 - static site hosting
 
-## 11. Heroku
+## 12. Heroku
 
 Homepage: [Heroku](https://www.heroku.com/)
 
