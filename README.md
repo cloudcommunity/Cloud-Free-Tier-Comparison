@@ -1,5 +1,5 @@
 # Cloud Service Providers Free Tier Overview
-Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, alibaba-cloud etc.
+Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle Cloud etc.
 
 1. [AWS](#1-aws)
 2. [Azure](#2-azure)
@@ -47,15 +47,7 @@ Homepage: [Google Cloud Free Tier](https://cloud.google.com/free/docs/gcp-free-t
 
 ### Always Free
 
-## 4. Alibaba Cloud
-
-Homepage: [Alibaba Cloud Free Trial](https://www.alibabacloud.com/campaign/free-trial)
-
-### Try Over 40 Products for Free Worth $450-$1300 USD. 
-## Now up to 12 Months Usage for Elastic Compute Services.
-
-
-## 5. Oracle Cloud
+## 4. Oracle Cloud
 
 Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
 
@@ -72,6 +64,13 @@ Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
 - Load Balancer and data egress;
 - Monitoring and Notifications;
 - Two Oracle Autonomous Databases incl. Oracle Application Express (APEX), Oracle SQL Developer etc.
+
+## 5. Alibaba Cloud
+
+Homepage: [Alibaba Cloud Free Trial](https://www.alibabacloud.com/campaign/free-trial)
+
+### Try Over 40 Products for Free Worth $450-$1300 USD. 
+## Now up to 12 Months Usage for Elastic Compute Services.
 
 ## 6. IBM Cloud
 
