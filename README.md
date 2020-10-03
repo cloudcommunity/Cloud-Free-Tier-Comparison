@@ -14,7 +14,7 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 11. [Netlify](#11-netlify)
 12. [Heroku](#12-heroku)
 13. [jfrog](#13-jfrog)
-
+14. [salesforce](#14-salesforce)
 
 ## 1. AWS
 
@@ -170,3 +170,15 @@ Homepage: [Jfrog Free Tier](https://jfrog.com/platform/free-trial/)
 2GB Storage
 10GB Transfer/month
 2,000 CI/CD Minutes/month
+
+## 14. Salesforce
+
+Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freetrial-sales)
+
+### Free for Limited-time
+
+-  Your FREE 30-Days Trial Now!
+
+### Always Free
+
+ When you download Listware for Salesforce, you are given 1,000 free credits which you can use during a free 30-day trial of the app.
