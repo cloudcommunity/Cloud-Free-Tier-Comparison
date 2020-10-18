@@ -15,6 +15,7 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 12. [Heroku](#12-heroku)
 13. [jfrog](#13-jfrog)
 14. [salesforce](#14-salesforce)
+15. [openshift](#15-openshift)
 
 ## 1. AWS
 
@@ -182,3 +183,11 @@ Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freet
 ### Always Free
 
  When you download Listware for Salesforce, you are given 1,000 free credits which you can use during a free 30-day trial of the app.
+ 
+ ## 15. Openshift
+ 
+ Homepage: [Interactive Learning Portal](https://learn.openshift.com/)
+ 
+### Try out Openshift 4 cluster for free
+
+ Openshift 4: [Try Openshift 4 cluster for free] (https://www.openshift.com/try?extIdCarryOver=true&sc_cid=701f2000001Css5AAC)
