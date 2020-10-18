@@ -190,4 +190,4 @@ Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freet
  
 ### Try out Openshift 4 cluster for free
 
- Openshift 4: [Try Openshift 4 cluster for free](https://www.openshift.com/try?extIdCarryOver=true&sc_cid=701f2000001Css5AAC)
+ Openshift 4: [Try Openshift 4 cluster for free](https://www.openshift.com/try)
