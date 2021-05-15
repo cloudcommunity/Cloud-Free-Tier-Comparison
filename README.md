@@ -49,6 +49,8 @@ Homepage: [Google Cloud Free Tier](https://cloud.google.com/free/docs/gcp-free-t
 
 ### Always Free
 
+- Compute VM: 0.20 vCPU, 600M
+
 ## 4. Oracle Cloud
 
 Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
@@ -61,7 +63,7 @@ Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
 
 ### Always Free
 
-- Two Compute VMs;
+- Compute VMs: Two 0.25 vCPU, 1G;
 - Block, Object, and Archive Storage;
 - Load Balancer and data egress;
 - Monitoring and Notifications;
@@ -72,7 +74,7 @@ Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
 Homepage: [Alibaba Cloud Free Trial](https://www.alibabacloud.com/campaign/free-trial)
 
 ### Try Over 40 Products for Free Worth $450-$1300 USD. 
-## Now up to 12 Months Usage for Elastic Compute Services.
+### Now up to 12 Months Usage for Elastic Compute Services.
 
 ## 6. IBM Cloud
 
@@ -154,7 +156,7 @@ Homepage: [Heroku](https://www.heroku.com/)
 
 ### Always Free
 
-- free _"dyno"_ (VPS) with 512MB RAM and 550 hours runtime
+- Compute Container: 0.22 vCPU, 512M
 - [PostgreSQL](https://www.postgresql.org/) with 10k rows and 20 connections
 - [Redis](https://redis.io/) with 25MB RAM and 20 connections
 
