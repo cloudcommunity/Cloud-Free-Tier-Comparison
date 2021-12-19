@@ -21,8 +21,6 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 
 Homepage: [AWS Free Tier](https://aws.amazon.com/free/)
 
-### Free for Limited-time
-
 ### Always Free
 
 - Amazon DynamoDB (NoSQL): 25 GB of storage
@@ -37,15 +35,9 @@ Homepage: [Azure Free Tier](https://azure.microsoft.com/en-us/free/)
 
 - $200 credit
 
-### Free for 12 Months
-
-### Always Free
-
 ## 3. Google Cloud
 
 Homepage: [Google Cloud Free Tier](https://cloud.google.com/free/docs/gcp-free-tier)
-
-### Free for Limited-time
 
 ### Always Free
 
@@ -83,8 +75,6 @@ Homepage: [IBM Cloud Free Tier](https://www.ibm.com/uk-en/cloud/free)
 ### Free for Limited-time
 - US$200 credit for 30 days
 
-### Always Free
-
 ## 7. Scaleway
 
 Homepage: [Scaleway](https://www.scaleway.com/)
@@ -106,10 +96,6 @@ Homepage: [DigitalOcean](https://www.digitalocean.com/)
 
 - $100 credit for 60 days from [do.co/hf100](https://do.co/hf100)
 
-### Always Free
-
-- nothing
-
 ## 9. Hetzner Cloud
 
 Homepage: [Hetzner Cloud](https://hetzner.cloud)
@@ -117,10 +103,6 @@ Homepage: [Hetzner Cloud](https://hetzner.cloud)
 ### Free for Limited-time
 
 - sometimes they give away free credits
-
-### Always Free
-
-- nothing
 
 ## 10. render
 
