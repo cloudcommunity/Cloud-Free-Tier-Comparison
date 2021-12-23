@@ -16,6 +16,7 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 13. [jfrog](#13-jfrog)
 14. [salesforce](#14-salesforce)
 15. [openshift](#15-openshift)
+16. [Linode](#16-linode)
 
 ## 1. AWS
 
@@ -175,3 +176,10 @@ Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freet
 ### Try out Openshift 4 cluster for free
 
  Openshift 4: [Try Openshift 4 cluster for free](https://www.openshift.com/try)
+
+ ## 16. Linode
+ 
+ Homepage: [Linode](https://www.linode.com)
+ 
+### Free for Limited-time
+- US$100, 60-day free trial requires valid credit card. [free-credit-100](https://www.linode.com/lp/free-credit-100)
