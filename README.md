@@ -32,9 +32,15 @@ Homepage: [AWS Free Tier](https://aws.amazon.com/free/)
 
 Homepage: [Azure Free Tier](https://azure.microsoft.com/en-us/free/)
 
-### Free for 30 Days
 
-- $200 credit
+### Free for Limited-time
+
+- US$200 credit for 30 days
+- Popular services free for 12 months
+
+### Always Free
+
+- 40+ other services free always
 
 ## 3. Google Cloud
 
