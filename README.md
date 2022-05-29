@@ -42,7 +42,9 @@ Homepage: [Google Cloud Free Tier](https://cloud.google.com/free/docs/gcp-free-t
 
 ### Always Free
 
-- Compute VM: 0.20 vCPU, 600M
+- Compute VM: 0.25 vCPU, 1G RAM (only on us-west1, us-central1 and us-east1)
+- 1GB of network egress (except China and Australia)
+- 5GB Storage only on us-west1, us-central1 and us-east1)
 
 ## 4. Oracle Cloud
 
@@ -63,7 +65,8 @@ Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
 - 10 GB Object Storage - Standard;
 - 10 GB Object Storage - Infrequent Access;
 - 10 GB Archive Storage;
-- Load Balancer and data egress;
+- 10TB of network egress;
+- Load Balancer;
 - Monitoring and Notifications;
 - Two Oracle Autonomous Databases incl. Oracle Application Express (APEX), Oracle SQL Developer etc.
 
