@@ -58,10 +58,15 @@ Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
 
 ### Always Free
 
-- Compute VMs: Two 0.25 vCPU, 1G;
-- Block, Object, and Archive Storage;
+- Compute:
+  - 2 AMD-based VMs: 0.25 vCPU and 1 GB RAM each;
+  - 4 Arm-based VMs: 24 GB RAM total, 3,000 vCPU hours and 18,000 GB hours per month;
+- 2 Block Volumes Storage, 200 GB total;
+- 10 GB Object Storage - Standard;
+- 10 GB Object Storage - Infrequent Access;
+- 10 GB Archive Storage;
+- 10TB of network egress;
 - Load Balancer;
-- 10TB of network egress
 - Monitoring and Notifications;
 - Two Oracle Autonomous Databases incl. Oracle Application Express (APEX), Oracle SQL Developer etc.
 
