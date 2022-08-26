@@ -4,8 +4,8 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 1. [AWS](#1-aws)
 2. [Azure](#2-azure)
 3. [Google Cloud](#3-google-cloud)
-4. [Alibaba Cloud](#4-alibaba-cloud)
-5. [Oracle Cloud](#5-oracle-cloud)
+4. [Oracle Cloud](#4-oracle-cloud)
+5. [Alibaba Cloud](#5-alibaba-cloud)
 6. [IBM Cloud](#6-ibm-cloud)
 7. [Scaleway](#7-scaleway)
 8. [DigitalOcean](#8-digitalocean)
@@ -17,6 +17,7 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 14. [salesforce](#14-salesforce)
 15. [openshift](#15-openshift)
 16. [Linode](#16-linode)
+17. [Container Hosting Service](#17-container-hosting-service)
 
 ## 1. AWS
 
@@ -197,3 +198,10 @@ Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freet
  
 ### Free for Limited-time
 - US$100, 60-day free trial requires valid credit card. [free-credit-100](https://www.linode.com/lp/free-credit-100)
+
+ ## 17. Container Hosting Service
+ 
+ Homepage: [Container Hosting Service](https://container-hosting.anotherwebservice.com/?gh)
+ 
+### Currently Free
+- Container Hosting Service [Try Open Source Container Hosting Service for free](https://container-hosting.anotherwebservice.com/?gh)
