@@ -12,7 +12,6 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 9. [Hetzner Cloud](#9-hetzner-cloud)
 10. [render](#10-render)
 11. [Netlify](#11-netlify)
-12. [Heroku](#12-heroku)
 13. [jfrog](#13-jfrog)
 14. [salesforce](#14-salesforce)
 15. [openshift](#15-openshift)
@@ -143,21 +142,7 @@ Homepage: [Netlify](https://www.netlify.com/)
 
 - static site hosting
 
-## 12. Heroku
-
-Homepage: [Heroku](https://www.heroku.com/)
-
-### Free for Limited-time
-
-- sometimes they give away free credits
-
-### Always Free
-
-- Compute Container: 0.22 vCPU, 512M
-- [PostgreSQL](https://www.postgresql.org/) with 10k rows and 20 connections
-- [Redis](https://redis.io/) with 25MB RAM and 20 connections
-
-## 13. jfrog
+## 12. jfrog
 
 Homepage: [Jfrog Free Tier](https://jfrog.com/platform/free-trial/)
 
@@ -171,7 +156,7 @@ Homepage: [Jfrog Free Tier](https://jfrog.com/platform/free-trial/)
 10GB Transfer/month
 2,000 CI/CD Minutes/month
 
-## 14. Salesforce
+## 13. Salesforce
 
 Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freetrial-sales)
 
@@ -183,7 +168,7 @@ Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freet
 
  When you download Listware for Salesforce, you are given 1,000 free credits which you can use during a free 30-day trial of the app.
  
- ## 15. Openshift
+ ## 14. Openshift
  
  Homepage: [Interactive Learning Portal](https://learn.openshift.com/)
  
@@ -191,7 +176,7 @@ Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freet
 
  Openshift 4: [Try Openshift 4 cluster for free](https://www.openshift.com/try)
 
- ## 16. Linode
+ ## 15. Linode
  
  Homepage: [Linode](https://www.linode.com)
  
