@@ -186,7 +186,7 @@ Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freet
 
  ## 17. Container Hosting Service
  
- Homepage: [Container Hosting Service](https://container-hosting.anotherwebservice.com/?gh)
+ Homepage: [Container Hosting Service](https://container-hosting.anotherwebservice.com/)
  
 ### Currently Free
-- Container Hosting Service [Try Open Source Container Hosting Service for free](https://container-hosting.anotherwebservice.com/?gh)
+- Container Hosting Service [Try Open Source Container Hosting Service for free](https://container-hosting.anotherwebservice.com/)
