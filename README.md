@@ -50,7 +50,7 @@ Homepage: [Google Cloud Free Tier](https://cloud.google.com/free/docs/gcp-free-t
 
 - Compute VM: 0.25 vCPU, 1G RAM (only on us-west1, us-central1 and us-east1)
 - 1GB of network egress (except China and Australia)
-- 5GB Storage only on us-west1, us-central1 and us-east1)
+- 5GB Storage (only on us-west1, us-central1, us-east1, asia-east1 and europe-west1)
 
 ## 4. Oracle Cloud
 
