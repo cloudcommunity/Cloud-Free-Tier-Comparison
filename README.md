@@ -12,11 +12,11 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 9. [Hetzner Cloud](#9-hetzner-cloud)
 10. [render](#10-render)
 11. [Netlify](#11-netlify)
-13. [jfrog](#13-jfrog)
-14. [salesforce](#14-salesforce)
-15. [openshift](#15-openshift)
-16. [Linode](#16-linode)
-17. [Container Hosting Service](#17-container-hosting-service)
+12. [jfrog](#13-jfrog)
+13. [salesforce](#14-salesforce)
+14. [openshift](#15-openshift)
+15. [Linode](#16-linode)
+16. [Container Hosting Service](#17-container-hosting-service)
 
 ## 1. AWS
 
@@ -184,7 +184,7 @@ Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freet
 ### Free for Limited-time
 - US$100, 60-day free trial requires valid credit card. [free-credit-100](https://www.linode.com/lp/free-credit-100)
 
- ## 17. Container Hosting Service
+ ## 16. Container Hosting Service
  
  Homepage: [Container Hosting Service](https://container-hosting.anotherwebservice.com/)
  
