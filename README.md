@@ -40,7 +40,6 @@ Homepage: [Azure Free Tier](https://azure.microsoft.com/en-us/free/)
 
 ### Always Free
 
-- 750 hours/month of B1s Virtual Machines
 - 54+ other services free always
 
 ## 3. Google Cloud
