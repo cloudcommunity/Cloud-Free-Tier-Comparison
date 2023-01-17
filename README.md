@@ -12,11 +12,13 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 9. [Hetzner Cloud](#9-hetzner-cloud)
 10. [render](#10-render)
 11. [Netlify](#11-netlify)
-12. [jfrog](#13-jfrog)
-13. [salesforce](#14-salesforce)
-14. [openshift](#15-openshift)
-15. [Linode](#16-linode)
-16. [Container Hosting Service](#17-container-hosting-service)
+12. [jfrog](#12-jfrog)
+13. [salesforce](#13-salesforce)
+14. [openshift](#14-openshift)
+15. [Linode](#15-linode)
+16. [Container Hosting Service](#16-container-hosting-service)
+17. [Fly.io](#17-fly-io)
+18. [Railway](#18-railway)
 
 ## 1. AWS
 
@@ -167,26 +169,46 @@ Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freet
 
 ### Always Free
 
- When you download Listware for Salesforce, you are given 1,000 free credits which you can use during a free 30-day trial of the app.
+When you download Listware for Salesforce, you are given 1,000 free credits which you can use during a free 30-day trial of the app.
  
- ## 14. Openshift
+## 14. Openshift
  
- Homepage: [Interactive Learning Portal](https://learn.openshift.com/)
+Homepage: [Interactive Learning Portal](https://learn.openshift.com/)
  
 ### Try out Openshift 4 cluster for free
 
- Openshift 4: [Try Openshift 4 cluster for free](https://www.openshift.com/try)
+Openshift 4: [Try Openshift 4 cluster for free](https://www.openshift.com/try)
 
- ## 15. Linode
+## 15. Linode
  
- Homepage: [Linode](https://www.linode.com)
+Homepage: [Linode](https://www.linode.com)
  
 ### Free for Limited-time
 - US$100, 60-day free trial requires valid credit card. [free-credit-100](https://www.linode.com/lp/free-credit-100)
 
- ## 16. Container Hosting Service
+## 16. Container Hosting Service
  
- Homepage: [Container Hosting Service](https://container-hosting.anotherwebservice.com/)
+Homepage: [Container Hosting Service](https://container-hosting.anotherwebservice.com/)
  
 ### Currently Free
 - Container Hosting Service [Try Open Source Container Hosting Service for free](https://container-hosting.anotherwebservice.com/)
+
+## 17. Fly.io
+
+Homepage: [Fly.io](https://fly.io/docs/about/pricing/)
+
+### Always free on all plans:
+
+- Up to 3 shared-cpu-1x 256mb VMs (Apps or Machines)
+- 3GB persistent volume storage (total)
+- 160GB outbound data transfer
+
+## 18. Railway
+
+Homepage: [Railway](https://railway.app/pricing)
+
+### Always Free:
+
+- 512 MB RAM and shared CPU/container
+- 1 GB Disk (split between your services)
+- $5 or 500 hours of usage (deploys shut off when first limit is reached)
