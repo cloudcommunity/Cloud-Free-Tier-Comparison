@@ -58,25 +58,28 @@ Homepage: [Google Cloud Free Tier](https://cloud.google.com/free/docs/gcp-free-t
 
 Homepage: [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
 
-### Free for Limited-time
+### Free for Limited-time 30 day free trial
 
-- US$300 credit for 30 days
+- US $300 credit for 30 days
 - Up to eight instances across all available services
 - Up to 5 TB of storage
 
 ### Always Free
 
-- Compute:
-  - 2 AMD-based VMs: 0.25 vCPU and 1 GB RAM each;
-  - 4 Arm-based VMs: 24 GB RAM total, 3,000 vCPU hours and 18,000 GB hours per month;
+- Compute: (Note- [1 Oracle OCPU = 2 vCPUs](https://blogs.oracle.com/cloud-infrastructure/post/vcpu-and-ocpu-pricing-information))
+  - 2 AMD-based VMs: 1/8 OCPU = 0.25 vCPU with 1 GB RAM each;
+  - 4 Arm-based VMs: 24 GB RAM total, 3,000 OCPU hours and 18,000 GB memory hours per month;
 - 2 Block Volumes Storage, 200 GB total;
 - 10 GB Object Storage - Standard;
 - 10 GB Object Storage - Infrequent Access;
 - 10 GB Archive Storage;
-- 10TB of network egress;
-- Load Balancer;
+- 10TB of network data egress/month per originating region;
+- Resource Manager (managed terraform)
+- 5 OCI Bastions;
+- 2 Oracle Autonomous Databases incl. Oracle Application Express (APEX), Oracle SQL Developer etc., each with 20GB storage;
+- NoSQL Database with 25GB storage per table, up to 3 tables;
+- 4 Load Balancers: 1 Flexible (10Mbps) and 3 Network;
 - Monitoring and Notifications;
-- Two Oracle Autonomous Databases incl. Oracle Application Express (APEX), Oracle SQL Developer etc.
 
 ## 5. Alibaba Cloud
 
