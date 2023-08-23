@@ -51,8 +51,10 @@ Homepage: [Google Cloud Free Tier](https://cloud.google.com/free/docs/gcp-free-t
 ### Always Free
 
 - Compute VM: 0.25 vCPU, 1 GB RAM (only on us-west1, us-central1 and us-east1)
-- 30 GB of standard persistent disk
-- 1 GB of network egress (except China and Australia)
+  - 30 GB of standard persistent disk
+  - 1 GB of network egress (except China and Australia)
+- BigQuery (SQL): 1 TB of querying per month and 10 GB of storage each month
+- Cloud Storage: 5 GB-months of regional storage (US regions only) per month
 
 ## 4. Oracle Cloud
 
