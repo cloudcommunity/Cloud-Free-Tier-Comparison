@@ -105,7 +105,7 @@ Homepage: [Scaleway](https://www.scaleway.com/)
 
 ### Always Free
 
-- 75GB block storage (S3-compatible API)
+- 75GB object storage (S3-compatible API)
 - 50k message in the IoT Hub ([MQTT](https://en.wikipedia.org/wiki/MQTT), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [Sigfox](https://en.wikipedia.org/wiki/Sigfox), [LoRa](https://en.wikipedia.org/wiki/LoRa))
 
 ## 8. DigitalOcean
