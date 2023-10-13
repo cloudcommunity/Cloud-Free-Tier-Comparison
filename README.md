@@ -18,7 +18,6 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 15. [Linode](#15-linode)
 16. [Container Hosting Service](#16-container-hosting-service)
 17. [Fly.io](#17-fly-io)
-18. [Railway](#18-railway)
 
 ## 1. AWS
 
@@ -207,13 +206,3 @@ Homepage: [Fly.io](https://fly.io/docs/about/pricing/)
 - Up to 3 shared-cpu-1x 256mb VMs (Apps or Machines)
 - 3GB persistent volume storage (total)
 - 160GB outbound data transfer
-
-## 18. Railway
-
-Homepage: [Railway](https://railway.app/pricing)
-
-### Always Free:
-
-- 512 MB RAM and shared CPU/container
-- 1 GB Disk (split between your services)
-- $5 or 500 hours of usage (deploys shut off when first limit is reached)
