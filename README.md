@@ -5,6 +5,8 @@
 
 Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle Cloud etc.
 
+**Star** :star: this repository if you found it useful and share with fellow developers!
+
 1. [AWS](#1-aws)
 2. [Azure](#2-azure)
 3. [Google Cloud](#3-google-cloud)
