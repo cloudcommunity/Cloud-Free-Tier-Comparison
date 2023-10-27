@@ -14,7 +14,7 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 7. [Scaleway](#7-scaleway)
 8. [DigitalOcean](#8-digitalocean)
 9. [Hetzner Cloud](#9-hetzner-cloud)
-10. [render](#10-render)
+10. [Render](#10-render)
 11. [Netlify](#11-netlify)
 12. [jfrog](#12-jfrog)
 13. [salesforce](#13-salesforce)
