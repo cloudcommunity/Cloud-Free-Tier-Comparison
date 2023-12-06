@@ -13,17 +13,16 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 4. [Oracle Cloud](#4-oracle-cloud)
 5. [Alibaba Cloud](#5-alibaba-cloud)
 6. [IBM Cloud](#6-ibm-cloud)
-7. [Scaleway](#7-scaleway)
-8. [DigitalOcean](#8-digitalocean)
-9. [Hetzner Cloud](#9-hetzner-cloud)
-10. [Render](#10-render)
-11. [Netlify](#11-netlify)
-12. [jfrog](#12-jfrog)
-13. [salesforce](#13-salesforce)
-14. [openshift](#14-openshift)
-15. [Linode](#15-linode)
-16. [Container Hosting Service](#16-container-hosting-service)
-17. [Fly.io](#17-fly-io)
+7. [DigitalOcean](#8-digitalocean)
+8. [Hetzner Cloud](#9-hetzner-cloud)
+9. [Render](#10-render)
+10. [Netlify](#11-netlify)
+11. [jfrog](#12-jfrog)
+12. [salesforce](#13-salesforce)
+13. [openshift](#14-openshift)
+14. [Linode](#15-linode)
+15. [Container Hosting Service](#16-container-hosting-service)
+16. [Fly.io](#17-fly-io)
 
 ## 1. AWS
 
@@ -102,20 +101,7 @@ Homepage: [IBM Cloud Free Tier](https://www.ibm.com/uk-en/cloud/free)
 ### Free for Limited-time
 - US$200 credit for 30 days
 
-## 7. Scaleway
-
-Homepage: [Scaleway](https://www.scaleway.com/)
-
-### Free for Limited-time
-
-- sometimes they give away free credits
-
-### Always Free
-
-- 75GB object storage (S3-compatible API)
-- 50k message in the IoT Hub ([MQTT](https://en.wikipedia.org/wiki/MQTT), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [Sigfox](https://en.wikipedia.org/wiki/Sigfox), [LoRa](https://en.wikipedia.org/wiki/LoRa))
-
-## 8. DigitalOcean
+## 7. DigitalOcean
 
 Homepage: [DigitalOcean](https://www.digitalocean.com/)
 
@@ -123,7 +109,7 @@ Homepage: [DigitalOcean](https://www.digitalocean.com/)
 
 - $100 credit for 60 days from [do.co/hf100](https://do.co/hf100)
 
-## 9. Hetzner Cloud
+## 8. Hetzner Cloud
 
 Homepage: [Hetzner Cloud](https://hetzner.cloud)
 
@@ -131,7 +117,7 @@ Homepage: [Hetzner Cloud](https://hetzner.cloud)
 
 - sometimes they give away free credits
 
-## 10. Render
+## 9. Render
 
 Homepage: [Render](https://render.com/)
 
@@ -143,7 +129,7 @@ Homepage: [Render](https://render.com/)
 
 - static site hosting
 
-## 11. Netlify
+## 10. Netlify
 
 Homepage: [Netlify](https://www.netlify.com/)
 
@@ -155,7 +141,7 @@ Homepage: [Netlify](https://www.netlify.com/)
 
 - static site hosting
 
-## 12. jfrog
+## 11. jfrog
 
 Homepage: [Jfrog Free Tier](https://jfrog.com/platform/free-trial/)
 
@@ -169,7 +155,7 @@ Homepage: [Jfrog Free Tier](https://jfrog.com/platform/free-trial/)
 10GB Transfer/month
 2,000 CI/CD Minutes/month
 
-## 13. Salesforce
+## 12. Salesforce
 
 Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freetrial-sales)
 
@@ -181,7 +167,7 @@ Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freet
 
 When you download Listware for Salesforce, you are given 1,000 free credits which you can use during a free 30-day trial of the app.
  
-## 14. Openshift
+## 13. Openshift
  
 Homepage: [Interactive Learning Portal](https://learn.openshift.com/)
  
@@ -189,21 +175,21 @@ Homepage: [Interactive Learning Portal](https://learn.openshift.com/)
 
 Openshift 4: [Try Openshift 4 cluster for free](https://www.openshift.com/try)
 
-## 15. Linode
+## 14. Linode
  
 Homepage: [Linode](https://www.linode.com)
  
 ### Free for Limited-time
 - US$100, 60-day free trial requires valid credit card. [free-credit-100](https://www.linode.com/lp/free-credit-100)
 
-## 16. Container Hosting Service
+## 15. Container Hosting Service
  
 Homepage: [Container Hosting Service](https://container-hosting.anotherwebservice.com/)
  
 ### Currently Free
 - Container Hosting Service [Try Open Source Container Hosting Service for free](https://container-hosting.anotherwebservice.com/)
 
-## 17. Fly.io
+## 16. Fly.io
 
 Homepage: [Fly.io](https://fly.io/docs/about/pricing/)
 
