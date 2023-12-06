@@ -17,9 +17,9 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 8. [Hetzner Cloud](#8-hetzner-cloud)
 9. [Render](#9-render)
 10. [Netlify](#10-netlify)
-11. [jfrog](#11-jfrog)
-12. [salesforce](#12-salesforce)
-13. [openshift](#13-openshift)
+11. [JFrog](#11-jfrog)
+12. [Salesforce](#12-salesforce)
+13. [OpenShift](#13-openshift)
 14. [Linode](#14-linode)
 15. [Container Hosting Service](#15-container-hosting-service)
 16. [Fly.io](#16-fly-io)
@@ -141,7 +141,7 @@ Homepage: [Netlify](https://www.netlify.com/)
 
 - static site hosting
 
-## 11. jfrog
+## 11. JFrog
 
 Homepage: [Jfrog Free Tier](https://jfrog.com/platform/free-trial/)
 
@@ -167,7 +167,7 @@ Homepage: [Salesforce Free Tier](https://www.salesforce.com/in/form/signup/freet
 
 When you download Listware for Salesforce, you are given 1,000 free credits which you can use during a free 30-day trial of the app.
  
-## 13. Openshift
+## 13. OpenShift
  
 Homepage: [Interactive Learning Portal](https://learn.openshift.com/)
  
