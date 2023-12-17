@@ -207,7 +207,8 @@ Homepage: [Cloudflare](https://www.cloudflare.com/plans/)
 ### Always free on basic plan:
 
 - NS server with DNS delegation
-- 10GB R2 - S3 equivalent object store
+- 10GB R2 - S3 compatible object storage
+- D1 - serverless SQL database
 - CDN for delegated domains
 - SSL offloading
 - Web Application Firewall
