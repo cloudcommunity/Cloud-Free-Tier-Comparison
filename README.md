@@ -23,6 +23,7 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 14. [Linode](#14-linode)
 15. [Container Hosting Service](#15-container-hosting-service)
 16. [Fly.io](#16-fly-io)
+17. [OVH](#17-ovh)
 
 ## 1. AWS
 
@@ -198,3 +199,11 @@ Homepage: [Fly.io](https://fly.io/docs/about/pricing/)
 - Up to 3 shared-cpu-1x 256mb VMs (Apps or Machines)
 - 3GB persistent volume storage (total)
 - 160GB outbound data transfer
+
+## 17. OVH
+
+Homepage: [OVH](https://www.ovhcloud.com)
+
+### Always free
+
+- Mongo DB 512 MO (with replication): https://www.ovhcloud.com/fr/public-cloud/mongodb/
