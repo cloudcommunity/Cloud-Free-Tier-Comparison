@@ -24,6 +24,7 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 15. [Container Hosting Service](#15-container-hosting-service)
 16. [Fly.io](#16-fly-io)
 17. [Cloudflare](#17-cloudflare)
+18. [OVH](#18-ovh)
 
 ## 1. AWS
 
@@ -213,3 +214,11 @@ Homepage: [Cloudflare](https://www.cloudflare.com/plans/)
 - SSL offloading
 - Web Application Firewall
 - Workers & Pages - serverless functions
+
+## 18. OVH
+
+Homepage: [OVH](https://www.ovhcloud.com)
+
+### Always free
+
+- Mongo DB 512 MO (with replication): https://www.ovhcloud.com/en/public-cloud/mongodb/
