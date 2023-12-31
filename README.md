@@ -23,7 +23,8 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 14. [Linode](#14-linode)
 15. [Container Hosting Service](#15-container-hosting-service)
 16. [Fly.io](#16-fly-io)
-17. [OVH](#17-ovh)
+17. [Cloudflare](#17-cloudflare)
+18. [OVH](#18-ovh)
 
 ## 1. AWS
 
@@ -200,10 +201,24 @@ Homepage: [Fly.io](https://fly.io/docs/about/pricing/)
 - 3GB persistent volume storage (total)
 - 160GB outbound data transfer
 
-## 17. OVH
+## 17. Cloudflare
+
+Homepage: [Cloudflare](https://www.cloudflare.com/plans/)
+
+### Always free on basic plan:
+
+- NS server with DNS delegation
+- 10GB R2 - S3 compatible object storage
+- D1 - serverless SQL database
+- CDN for delegated domains
+- SSL offloading
+- Web Application Firewall
+- Workers & Pages - serverless functions
+
+## 18. OVH
 
 Homepage: [OVH](https://www.ovhcloud.com)
 
 ### Always free
 
-- Mongo DB 512 MO (with replication): https://www.ovhcloud.com/fr/public-cloud/mongodb/
+- Mongo DB 512 MO (with replication): https://www.ovhcloud.com/en/public-cloud/mongodb/
