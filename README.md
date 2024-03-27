@@ -233,3 +233,8 @@ Homepage: [Zeabur](https://zeabur.com/pricing)
 
 - Serverless functions and static sites
 - 10GB outbound data transfer per month
+
+### Always free for developer plan
+
+- 100GB outbound data transfer per month
+- US$ 5 usage fee per month
