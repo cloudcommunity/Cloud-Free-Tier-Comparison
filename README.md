@@ -25,6 +25,7 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 16. [Fly.io](#16-fly-io)
 17. [Cloudflare](#17-cloudflare)
 18. [OVH](#18-ovh)
+19. [Zeabur](#19-zeabur)
 
 ## 1. AWS
 
@@ -223,3 +224,12 @@ Homepage: [OVH](https://www.ovhcloud.com)
 ### Always free
 
 - Mongo DB 512 MB (with replication): https://www.ovhcloud.com/en/public-cloud/mongodb/
+
+## 19. Zeabur
+
+Homepage: [Zeabur](https://zeabur.com/pricing)
+
+### Always free
+
+- Serverless functions and static sites
+- 10GB outbound data transfer per month
