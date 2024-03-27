@@ -223,6 +223,8 @@ Homepage: [OVH](https://www.ovhcloud.com)
 
 ### Always free
 
+- Mongo DB 512 MB (with replication): https://www.ovhcloud.com/en/public-cloud/mongodb/
+
 ## 19. Vercel
 
 Homepage: [Vercel](https://vercel.com/pricing)
