@@ -22,9 +22,10 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 13. [OpenShift](#13-openshift)
 14. [Linode](#14-linode)
 15. [Container Hosting Service](#15-container-hosting-service)
-16. [Fly.io](#16-fly-io)
+16. [Fly.io](#16-flyio)
 17. [Cloudflare](#17-cloudflare)
 18. [OVH](#18-ovh)
+19. [Tencent Cloud](#19-tencent-cloud)
 
 ## 1. AWS
 
@@ -223,3 +224,18 @@ Homepage: [OVH](https://www.ovhcloud.com)
 ### Always free
 
 - Mongo DB 512 MB (with replication): https://www.ovhcloud.com/en/public-cloud/mongodb/
+
+## 19. Tencent Cloud
+
+Homepage: [Tencent Cloud](https://www.tencentcloud.com/campaign/freetier)
+
+Multiple alternative server locations for hosting in Asia: Shanghai, Nanjing, Guangzhou, Beijing, Chengdu, Chongqing, Hong Kong, Seoul, Tokyo, Singapore, Bangkok, Jakarta, Silicon Valley, Frankfurt, Mumbai, Virginia, São Paulo, Toronto
+
+### Free for Limited-time
+- [$300 voucher, 30-day trial](https://www.tencentcloud.com/campaign/promotions)
+
+### Always Free
+- Elastic Network Interface (ENI)
+- Virtual Private Cloud (VOC)
+- Auto Scaling (AS)
+- VPN connections
