@@ -192,17 +192,7 @@ Homepage: [Container Hosting Service](https://container-hosting.anotherwebservic
 ### Currently Free
 - Container Hosting Service [Try Open Source Container Hosting Service for free](https://container-hosting.anotherwebservice.com/)
 
-## 16. Fly.io
-
-Homepage: [Fly.io](https://fly.io/docs/about/pricing/)
-
-### Always free on all plans:
-
-- Up to 3 shared-cpu-1x 256mb VMs (Apps or Machines)
-- 3GB persistent volume storage (total)
-- 160GB outbound data transfer
-
-## 17. Cloudflare
+## 16. Cloudflare
 
 Homepage: [Cloudflare](https://www.cloudflare.com/plans/)
 
@@ -216,7 +206,7 @@ Homepage: [Cloudflare](https://www.cloudflare.com/plans/)
 - Web Application Firewall
 - Workers & Pages - serverless functions
 
-## 18. OVH
+## 17. OVH
 
 Homepage: [OVH](https://www.ovhcloud.com)
 
