@@ -22,9 +22,8 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 13. [OpenShift](#13-openshift)
 14. [Linode](#14-linode)
 15. [Container Hosting Service](#15-container-hosting-service)
-16. [Fly.io](#16-fly-io)
-17. [Cloudflare](#17-cloudflare)
-18. [OVH](#18-ovh)
+16. [Cloudflare](#17-cloudflare)
+17. [OVH](#18-ovh)
 
 ## 1. AWS
 
