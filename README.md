@@ -131,6 +131,11 @@ Homepage: [Render](https://render.com/)
 ### Always Free
 
 - static site hosting
+- web service
+- Redis
+- PostgreSQL
+- 
+- 0.1vCPU, 512MB of RAM, 100GB bandwidth, running time of 750 hours per month
 
 ## 10. Netlify
 
