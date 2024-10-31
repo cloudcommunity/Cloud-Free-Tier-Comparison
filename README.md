@@ -224,9 +224,13 @@ Homepage: [Cloudflare](https://www.cloudflare.com/plans/)
 - Web Application Firewall
 - Workers & Pages - serverless functions
 
-## 18. OVH
+## 18. OVHcloud
 
 Homepage: [OVH](https://www.ovhcloud.com)
+
+### Free for Limited-time
+
+[200€ or equivalent on all public cloud ressources for 30 days](https://www.ovhcloud.com/en-ie/public-cloud/)
 
 ### Always free
 
