@@ -26,6 +26,7 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 17. [Cloudflare](#17-cloudflare)
 18. [OVH](#18-ovh)
 19. [Vercel](#19-vercel)
+20. [Zeabur](#19-zeabur)
 
 ## 1. AWS
 
@@ -132,6 +133,11 @@ Homepage: [Render](https://render.com/)
 ### Always Free
 
 - static site hosting
+- web service
+- Redis
+- PostgreSQL
+- 
+- 0.1vCPU, 512MB of RAM, 100GB bandwidth, running time of 750 hours per month
 
 ## 10. Netlify
 
@@ -237,3 +243,17 @@ Homepage: [Vercel](https://vercel.com/pricing)
 - Functions (Serverless, Edge)
 - Starter Database (KV, Postgres)
 - Web Analytics
+
+## 20. Zeabur
+
+Homepage: [Zeabur](https://zeabur.com/pricing)
+
+### Always free
+
+- Serverless functions and static sites
+- 10GB outbound data transfer per month
+
+### Always free for developer plan
+
+- 100GB outbound data transfer per month
+- US$ 5 usage fee per month
