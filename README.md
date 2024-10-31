@@ -25,7 +25,8 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 16. [Fly.io](#16-fly-io)
 17. [Cloudflare](#17-cloudflare)
 18. [OVH](#18-ovh)
-19. [Zeabur](#19-zeabur)
+19. [Vercel](#19-vercel)
+20. [Zeabur](#19-zeabur)
 
 ## 1. AWS
 
@@ -230,7 +231,20 @@ Homepage: [OVH](https://www.ovhcloud.com)
 
 - Mongo DB 512 MB (with replication): https://www.ovhcloud.com/en/public-cloud/mongodb/
 
-## 19. Zeabur
+## 19. Vercel
+
+Homepage: [Vercel](https://vercel.com/pricing)
+
+### Always free
+
+- Support for 35+ Frameworks
+- Fast Globally (Edge Network)
+- Automatic CI/CD (Git Integration)
+- Functions (Serverless, Edge)
+- Starter Database (KV, Postgres)
+- Web Analytics
+
+## 20. Zeabur
 
 Homepage: [Zeabur](https://zeabur.com/pricing)
 
