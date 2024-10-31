@@ -25,8 +25,9 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 16. [Fly.io](#16-fly-io)
 17. [Cloudflare](#17-cloudflare)
 18. [OVH](#18-ovh)
-19. [Vercel](#19-vercel)
-20. [Zeabur](#19-zeabur)
+19. [Tencent Cloud](#19-tencent-cloud)
+20. [Vercel](#19-vercel)
+21. [Zeabur](#19-zeabur)
 
 ## 1. AWS
 
@@ -231,7 +232,24 @@ Homepage: [OVH](https://www.ovhcloud.com)
 
 - Mongo DB 512 MB (with replication): https://www.ovhcloud.com/en/public-cloud/mongodb/
 
-## 19. Vercel
+## 19. Tencent Cloud
+
+Homepage: [Tencent Cloud](https://www.tencentcloud.com/campaign/freetier)
+
+Multiple alternative server locations for hosting in Asia: Shanghai, Nanjing, Guangzhou, Beijing, Chengdu, Chongqing, Hong Kong, Seoul, Tokyo, Singapore, Bangkok, Jakarta, Silicon Valley, Frankfurt, Mumbai, Virginia, São Paulo, Toronto
+
+### Free for Limited-time
+
+- [$300 voucher, 30-day trial](https://www.tencentcloud.com/campaign/promotions)
+
+### Always Free
+
+- Elastic Network Interface (ENI)
+- Virtual Private Cloud (VOC)
+- Auto Scaling (AS)
+- VPN connections
+
+## 20. Vercel
 
 Homepage: [Vercel](https://vercel.com/pricing)
 
@@ -244,7 +262,7 @@ Homepage: [Vercel](https://vercel.com/pricing)
 - Starter Database (KV, Postgres)
 - Web Analytics
 
-## 20. Zeabur
+## 21. Zeabur
 
 Homepage: [Zeabur](https://zeabur.com/pricing)
 
