@@ -22,8 +22,11 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 13. [OpenShift](#13-openshift)
 14. [Linode](#14-linode)
 15. [Container Hosting Service](#15-container-hosting-service)
-16. [Cloudflare](#17-cloudflare)
-17. [OVH](#18-ovh)
+16. [Cloudflare](#16-cloudflare)
+17. [OVHcloud](#17-ovhcloud)
+18. [Tencent Cloud](#18-tencent-cloud)
+19. [Vercel](#19-vercel)
+20. [Zeabur](#20-zeabur)
 
 ## 1. AWS
 
@@ -130,6 +133,11 @@ Homepage: [Render](https://render.com/)
 ### Always Free
 
 - static site hosting
+- web service
+- Redis
+- PostgreSQL
+- 
+- 0.1vCPU, 512MB of RAM, 100GB bandwidth, running time of 750 hours per month
 
 ## 10. Netlify
 
@@ -205,10 +213,58 @@ Homepage: [Cloudflare](https://www.cloudflare.com/plans/)
 - Web Application Firewall
 - Workers & Pages - serverless functions
 
-## 17. OVH
+## 17. OVHcloud
 
 Homepage: [OVH](https://www.ovhcloud.com)
+
+### Free for Limited-time
+
+[200€ or equivalent on all public cloud ressources for 30 days](https://www.ovhcloud.com/en-ie/public-cloud/)
 
 ### Always free
 
 - Mongo DB 512 MB (with replication): https://www.ovhcloud.com/en/public-cloud/mongodb/
+
+## 18. Tencent Cloud
+
+Homepage: [Tencent Cloud](https://www.tencentcloud.com/campaign/freetier)
+
+Multiple alternative server locations for hosting in Asia: Shanghai, Nanjing, Guangzhou, Beijing, Chengdu, Chongqing, Hong Kong, Seoul, Tokyo, Singapore, Bangkok, Jakarta, Silicon Valley, Frankfurt, Mumbai, Virginia, São Paulo, Toronto
+
+### Free for Limited-time
+
+- [$300 voucher, 30-day trial](https://www.tencentcloud.com/campaign/promotions)
+
+### Always Free
+
+- Elastic Network Interface (ENI)
+- Virtual Private Cloud (VOC)
+- Auto Scaling (AS)
+- VPN connections
+
+## 19. Vercel
+
+Homepage: [Vercel](https://vercel.com/pricing)
+
+### Always free
+
+- Support for 35+ Frameworks
+- Fast Globally (Edge Network)
+- Automatic CI/CD (Git Integration)
+- Functions (Serverless, Edge)
+- Starter Database (KV, Postgres)
+- Web Analytics
+
+## 20. Zeabur
+
+Homepage: [Zeabur](https://zeabur.com/pricing)
+
+### Always free
+
+- Serverless functions and static sites
+- 10GB outbound data transfer per month
+
+### Always free for developer plan
+
+- 100GB outbound data transfer per month
+- US$ 5 usage fee per month
