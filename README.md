@@ -22,12 +22,11 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 13. [OpenShift](#13-openshift)
 14. [Linode](#14-linode)
 15. [Container Hosting Service](#15-container-hosting-service)
-16. [Fly.io](#16-fly-io)
-17. [Cloudflare](#17-cloudflare)
-18. [OVHcloud](#18-ovhcloud)
-19. [Tencent Cloud](#19-tencent-cloud)
-20. [Vercel](#20-vercel)
-21. [Zeabur](#21-zeabur)
+16. [Cloudflare](#16-cloudflare)
+17. [OVHcloud](#17-ovhcloud)
+18. [Tencent Cloud](#18-tencent-cloud)
+19. [Vercel](#19-vercel)
+20. [Zeabur](#20-zeabur)
 
 ## 1. AWS
 
@@ -200,17 +199,7 @@ Homepage: [Container Hosting Service](https://container-hosting.anotherwebservic
 ### Currently Free
 - Container Hosting Service [Try Open Source Container Hosting Service for free](https://container-hosting.anotherwebservice.com/)
 
-## 16. Fly.io
-
-Homepage: [Fly.io](https://fly.io/docs/about/pricing/)
-
-### Always free on all plans:
-
-- Up to 3 shared-cpu-1x 256mb VMs (Apps or Machines)
-- 3GB persistent volume storage (total)
-- 160GB outbound data transfer
-
-## 17. Cloudflare
+## 16. Cloudflare
 
 Homepage: [Cloudflare](https://www.cloudflare.com/plans/)
 
@@ -224,7 +213,7 @@ Homepage: [Cloudflare](https://www.cloudflare.com/plans/)
 - Web Application Firewall
 - Workers & Pages - serverless functions
 
-## 18. OVHcloud
+## 17. OVHcloud
 
 Homepage: [OVH](https://www.ovhcloud.com)
 
@@ -236,7 +225,7 @@ Homepage: [OVH](https://www.ovhcloud.com)
 
 - Mongo DB 512 MB (with replication): https://www.ovhcloud.com/en/public-cloud/mongodb/
 
-## 19. Tencent Cloud
+## 18. Tencent Cloud
 
 Homepage: [Tencent Cloud](https://www.tencentcloud.com/campaign/freetier)
 
@@ -253,7 +242,7 @@ Multiple alternative server locations for hosting in Asia: Shanghai, Nanjing, Gu
 - Auto Scaling (AS)
 - VPN connections
 
-## 20. Vercel
+## 19. Vercel
 
 Homepage: [Vercel](https://vercel.com/pricing)
 
@@ -266,7 +255,7 @@ Homepage: [Vercel](https://vercel.com/pricing)
 - Starter Database (KV, Postgres)
 - Web Analytics
 
-## 21. Zeabur
+## 20. Zeabur
 
 Homepage: [Zeabur](https://zeabur.com/pricing)
 
