@@ -24,10 +24,10 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 15. [Container Hosting Service](#15-container-hosting-service)
 16. [Fly.io](#16-fly-io)
 17. [Cloudflare](#17-cloudflare)
-18. [OVH](#18-ovh)
+18. [OVHcloud](#18-ovhcloud)
 19. [Tencent Cloud](#19-tencent-cloud)
-20. [Vercel](#19-vercel)
-21. [Zeabur](#19-zeabur)
+20. [Vercel](#20-vercel)
+21. [Zeabur](#21-zeabur)
 
 ## 1. AWS
 
